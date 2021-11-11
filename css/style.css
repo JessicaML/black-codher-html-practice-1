@@ -1,0 +1,23 @@
+  @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+    body {
+        background-color: red;
+    }
+
+      @media (min-width: 480px) {
+        h1 {
+            font-size: 20px;
+        }
+    }
+
+
+  h1 {
+    color: aqua;
+    font-family: 'Mohave', sans-serif;
+}
+
+  h2 {font-family: Calibri;}
+
+  p{font-family: 'Mochiy Pop One', sans-serif;}
+
